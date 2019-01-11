@@ -31,6 +31,7 @@ namespace CoreAppTest.Controllers
         public void Post([FromBody]Student student)
         {
             _iRepo.Add(student);
+            //abc new 
         }
         public long Add(Student stundent)
         {
