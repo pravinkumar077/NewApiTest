@@ -33,6 +33,7 @@ namespace CoreAppTest.Controllers
             _iRepo.Add(student);
             //abc new 
             //abc again new 
+            //djfggirfgj
         }
         public long Add(Student stundent)
         {
